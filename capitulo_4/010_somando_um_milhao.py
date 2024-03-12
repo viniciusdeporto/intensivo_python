@@ -1,0 +1,5 @@
+soma = list(range(1, 101))
+print(soma)
+print(min(soma))
+print(max(soma))
+print(sum(soma))
