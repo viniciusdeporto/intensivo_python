@@ -1,6 +1,7 @@
 players = ["charles", "martina", "michael", "florence", "eli"]
 # print(players[-3])
 # print(players[-3:])
+# print(players[-3:-1])
 # print(players[:4])
 # print(players[:4])
 # print("Here are the first three players on my team:")
