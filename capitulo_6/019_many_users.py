@@ -22,6 +22,8 @@ for username, user_info in users.items():
 
 
 
+
+
 #     coisas = {
 #     'usuario_1':{
 #         'nome': 'vinicius',
