@@ -1,4 +1,7 @@
-nome = 'vinicius '
-nome += 'Porto de Farias Alves'
+active = False
 
-print(nome.title())
+while active:
+    print('Active True')
+    break
+else:
+    print('Active False')
