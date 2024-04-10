@@ -1,6 +1,8 @@
-def greeter():
+def greeter_user(username):
     """Exibe um simples cumprimento"""
-    print("Hello MotheFucker")
+    print(f"Hello {username}")
     
-greeter()
+    
+nome =  'vinicius'
+greeter_user(nome)
 
