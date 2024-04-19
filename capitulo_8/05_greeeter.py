@@ -11,7 +11,7 @@ while True:
         print('Bye')
         break
 
-    l_name = input('Last name: ')
+    l_name = input('Last name: ') 
     if l_name == 'q':
         print('Bye')
         break
