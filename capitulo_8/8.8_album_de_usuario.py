@@ -17,7 +17,7 @@ while True:
     album = input("Digite o album: ")
     if album == 'q':
         break
-
+    
     qt_musicas = input('Quantidade de musicas no album: ')
     if qt_musicas == 'q':
         break
